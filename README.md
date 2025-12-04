@@ -24,6 +24,11 @@ or
 python3 -m pip install -U yt-dlp-ytdlp-jsc
 ```
 
+### git
+```bash
+git clone https://github.com/ahaoboy/ytdlp-jsc-plugin.git --depth=1 ~/.yt-dlp/plugins/ytdlp-jsc-plugin
+```
+
 ### Manual
 
 1. Go to the [latest release](https://github.com/grqz/yt-dlp-ytdlp-jsc/releases/latest)
